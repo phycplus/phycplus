@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @phycplus
 - 👀 I’m interested in c++ ,python and physics 
 - 🌱 I’m currently working in tcs
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate for programming AI/ML , physics , DevOps
 - 📫 How to reach me saikundans@gmail.com
 
 <!---
